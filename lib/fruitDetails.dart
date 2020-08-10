@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 class FruitDetail extends StatefulWidget {
 
   final fruitDetail;
+
+
+
+
   FruitDetail({this.fruitDetail});
 
   @override
